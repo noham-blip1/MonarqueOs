@@ -1,1 +1,1 @@
-
+MonarqueOs est un systéme d'explotation 64 bits il sera possible de jouer a des jeux dessus est travailler avec ces outils qui sortiront prochainement mais ci ce project github est vide ces parce que le project est en cours de dévelopement est n'a pas été encore lancé.
